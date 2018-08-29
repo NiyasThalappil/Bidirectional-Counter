@@ -1,2 +1,2 @@
-# Bidirectional-Counter
+# Bidirectional-Counter using Arduino
 The project of “Digital visitor counter” is based on the interfacing of some components such as sensors, motors etc. with arduino microcontroller. This counter can count people in both directions. This circuit can be used to count the number of persons entering a hall/mall/home/office in the entrance gate and it can count the number of persons leaving the hall by decrementing the count at same gate or exit gate and it depends upon sensor placement in mall/hall. It can also be used at gates of parking areas and other public places.
